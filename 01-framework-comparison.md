@@ -24,7 +24,7 @@ They overlap heavily. For example, strong authentication appears in all three. C
 
 ## Which would Example Co. pick?
 
-[Your answer in 3-4 sentences. Hint: a small payments company selling to banks and businesses would probably be asked for a SOC 2 report by customers, and might choose NIST CSF as an internal guide first. Explain your reasoning in your own words.]
+A small payments company selling to banks and businesses would probably be asked for a SOC 2 report by customers, and might choose NIST CSF as an internal guide first. NIST CSF is used internally to build a strong security program, while SOC 2 is used externally to prove that security to enterprise customers and banks.
 
 ## Sources
 
