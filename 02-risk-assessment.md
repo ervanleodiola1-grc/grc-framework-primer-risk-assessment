@@ -2,7 +2,7 @@
 
 ## 1. Company profile
 
-Example Co. is a fictional 40-person company in Toronto that offers online payment transfers to small businesses. [Write 3-4 sentences in your own words: what it does, who its customers are, how its staff work (hybrid), what cloud tools it uses.]
+Example Co. is a fictional 40-person company in Toronto that offers online payment transfers to small businesses. Its main customers are business clients and banks that need a reliable platform to process customer account data, like names, email addresses, and bank details. The company operates on a hybrid model, where employees use laptops and company email to collaborate both remotely and from the office. PaySwift relies on cloud storage and databases to store sensitive client data, alongside a third-party payment processor to complete real-time financial transactions.
 
 **Key assets**
 
