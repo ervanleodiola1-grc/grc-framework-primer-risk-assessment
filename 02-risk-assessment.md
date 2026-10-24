@@ -41,7 +41,7 @@ Scores are my own judgment as a beginner. In a real assessment they would be agr
 
 ## 4. Findings
 
-[After you finish, write 4-5 sentences: which risks are highest, where you have no existing control (R4, R6, R7 in my draft), and what you'd do first. This is your gap analysis.]
+The highest risks in the assessment are R1, R2, R4, and R5, as they all carry "High" risk ratings with scores of 15 or 16. Currently, there are no existing controls in place for risks R4, R6, and R7. Out of these unmitigated risks, R4 (payment processor outage or breach) requires immediate attention because it carries a High risk rating. To address this highest-priority gap first, the company should conduct a vendor risk review and establish a backup payment processor plan. Following that, implementing controls for R6 and R7 will fix the remaining gaps where security coverage is currently missing.
 
 ## 5. Limitations
 
