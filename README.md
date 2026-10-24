@@ -4,7 +4,7 @@ A beginner GRC (Governance, Risk, and Compliance) project in two parts. First, I
 
 ## Why I made this
 
-I'm [a student studying criminology with a business administration minor] and I'm building skills for an entry-level GRC role. Reading about frameworks only got me so far, so I wanted to use them on a realistic scenario to see how risks, controls, and frameworks connect in practice.
+I'm a student studying criminology with a business administration minor and I'm building skills for an entry-level GRC role. Reading about frameworks only got me so far, so I wanted to use them on a realistic scenario to see how risks, controls, and frameworks connect in practice.
 
 ## The scenario
 
@@ -28,23 +28,22 @@ Example Co. is a fictional 40-person payments company in Toronto. It moves money
 
 ## What I learned
 
-- [One thing about how the frameworks differ, for example, that SOC 2 is an audit report and NIST CSF is not certifiable]
-- [One thing about risk scoring, for example, how subjective likelihood and impact are]
-- [One thing about controls, for example, where all three frameworks asked for the same thing]
-- [One thing that was harder than expected]
+- SOC 2 is an audit report and NIST CSF is not certifiable
+- Risk scoring and how subjective likelihood and impact are
+- All three frameworks asking for managing risk, information security protection, and establishing disciplined internal controls
+
 
 ## Limitations
 
 - This is a learning project on a fictional company, not a real assessment.
 - Risk scores are my own judgment as a beginner. In a real assessment they would be agreed with the business and based on incident data.
-- The ISO 27001 standard is paywalled, so I used public summaries of its structure and Annex A control names. [Update this line if you used something different.]
-- Framework mappings involve judgment, and a different reviewer might choose differently. I checked the control IDs against [the official NIST and AICPA documents / list what you actually checked].
+- The ISO 27001 standard is paywalled, so I used public summaries of its structure and Annex A control names. 
+- Framework mappings involve judgment, and a different reviewer might choose differently. I checked the control IDs against.
 
 ## Next steps
 
 - Link this to my [policy-to-control mapping project](https://github.com/ervanleodiola1-grc/grc-policy-control-mapping), which uses the same fictional company
 - Load the risk register into SQL and build a simple dashboard to summarize risks by rating and framework function
-- [Your own idea]
 
 ## References
 
