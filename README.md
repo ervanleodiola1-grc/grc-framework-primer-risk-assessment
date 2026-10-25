@@ -49,4 +49,4 @@ Example Co. is a fictional 40-person payments company in Toronto. It moves money
 
 - [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
 - [AICPA Trust Services Criteria](https://www.aicpa-cima.com)
-- [ISO/IEC 27001 overview](https://www.iso.org/standard/27001)
+- ISO/IEC 27001 through open sources
