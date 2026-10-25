@@ -1,4 +1,4 @@
-# Framework Primer and Risk Assessment
+# Project 1: Framework Primer and Risk Assessment
 
 A beginner GRC (Governance, Risk, and Compliance) project in two parts. First, I compared three major security frameworks: NIST CSF 2.0, ISO 27001, and SOC 2. Then I applied them by running a small risk assessment on a fictional company and mapping the controls to all three.
 
