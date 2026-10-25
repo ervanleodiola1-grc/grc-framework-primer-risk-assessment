@@ -8,7 +8,7 @@ Each treatment from the risk register is mapped to NIST CSF 2.0, ISO 27001:2022 
 | R2 | Phishing awareness training | PR.AT-01 | 6.3 Awareness and training | CC2.2 | ☐ |
 | R3 | Remove and review access rights | PR.AA-05 | 5.18 Access rights | CC6.2 | ☐ |
 | R4 | Review third-party risk | GV.SC-07 | 5.19 Supplier relationships | CC9.2 | ☐ |
-| R5 | Endpoint protection against malware | DE.CM-09 | 8.7 Protection against malware | CC6.8 | ☐ |
+| R5 | Endpoint protection against malware | PR.PS-05 | 8.7 Protection against malware | CC6.8 | ☐ |
 | R6 | Scan for and patch vulnerabilities | ID.RA-01 | 8.8 Technical vulnerabilities | CC7.1 | ☐ |
 | R7 | Secure cloud configuration and encryption | PR.DS-01 | 5.23 Cloud services | CC6.1 | ☐ |
 | R8 | Back up and test restores | PR.DS-11 | 8.13 Information backup | A1.2 | ☐ |
