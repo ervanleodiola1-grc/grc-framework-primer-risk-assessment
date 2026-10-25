@@ -34,7 +34,7 @@ Scores are my own judgment as a beginner. In a real assessment they would be agr
 | R3 | Former employees or role-changers keep access they should not have | All systems | 3 | 4 | 12 | Medium | Access Control Policy 6.1, 7.1, 7.2 | Track removals in a checklist and audit quarterly |
 | R4 | Payment processor suffers an outage or breach | Payment processor | 3 | 5 | 15 | High | None | Vendor risk review and a backup processor plan |
 | R5 | Ransomware encrypts laptops or shared files | Laptops, file storage | 3 | 5 | 15 | High | Incident Response Policy 7.1, 7.4 | Endpoint protection plus offline backups |
-| R6 | Unpatched flaw in the web app is exploited | Payment platform | 3 | 4 | 12 | Medium | None | Monthly vulnerability scans and a patch schedule |
+| R6 | Undetected application or system vulnerabilities are exploited due to lack of scanning. | Payment platform | 3 | 4 | 12 | Medium | None | Monthly vulnerability scans and a patch schedule |
 | R7 | Misconfigured cloud storage exposes customer data | Cloud storage | 2 | 5 | 10 | Medium | None | Configuration reviews and encryption |
 | R8 | Backups fail when needed, causing a long outage | Databases | 2 | 4 | 8 | Medium | Incident Response Policy 7.4 | Test restores twice a year |
 | R9 | Employee misuses customer data | Customer data | 2 | 4 | 8 | Medium | Access Control Policy 5.3 (admin logging) | Log and review access to customer records |
