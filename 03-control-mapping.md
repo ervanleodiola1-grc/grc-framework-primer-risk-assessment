@@ -5,7 +5,7 @@ Each treatment from the risk register is mapped to NIST CSF 2.0, ISO 27001:2022 
 | Risk | Control (plain English) | NIST CSF 2.0 | ISO 27001:2022 Annex A | SOC 2 | Verified |
 |---|---|---|---|---|---|
 | R1 | MFA and strong authentication for customers | PR.AA-03 | 8.5 Secure authentication | CC6.1 | ☐ |
-| R2 | Phishing awareness training | PR.AT-01 | 6.3 Awareness and training | CC2.2 | ☐ |
+| R2 | Phishing awareness training | PR.AT-01 | 6.3 Awareness and training | CC1.4 | ☐ |
 | R3 | Remove and review access rights | PR.AA-05 | 5.18 Access rights | CC6.2 | ☐ |
 | R4 | Review third-party risk | GV.SC-07 | 5.19 Supplier relationships | CC9.2 | ☐ |
 | R5 | Endpoint protection against malware | PR.PS-05 | 8.7 Protection against malware | CC6.8 | ☐ |
